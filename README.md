@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Agnes 👋
 
-<!--
-**GigiCooper/gigicooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PHP backend developer with 8+ years of experience — mostly working with WordPress, WooCommerce, and custom business logic.
 
-Here are some ideas to get you started:
+- 🔧 Strong in plugin and API development
+- 🛒 Familiar with e-commerce systems and integrations (e.g. payment gateways, logistics)
+- 🌍 Based in Hungary, open to full remote work
+- 💬 I speak English (B2 level), looking for international freelance/remote opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✈️ Fun Fact
+My code travels further than I do.
+
+### 🔗 Links
+- 📂 Portfolio: [coming soon]
+- 📧 Contact: [agnes.cooper.hungary@gmail.com]
